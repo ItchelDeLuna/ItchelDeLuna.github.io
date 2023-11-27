@@ -290,7 +290,7 @@ p {
   font-family: poppins;
 }
 .portfolio-item h2 {
-  font-size: 14px; /* Tamaño de fuente para pantallas más pequeñas */
+  font-size: 11px; /* Tamaño de fuente para pantallas más pequeñas */
 }
 .portfolio-item h3 {
   font-weight: 600;
@@ -323,7 +323,7 @@ p {
   font-family: poppins;
 }
 .portfolio-item h2 {
-  font-size: 14px; /* Tamaño de fuente más pequeño para pantallas aún más pequeñas */
+  font-size: 11px; /* Tamaño de fuente más pequeño para pantallas aún más pequeñas */
 }
 .portfolio-item h3 {
   font-weight: 600;
@@ -441,8 +441,6 @@ p {
   color: #ffffff; /* Color de los iconos */
   font-size: 18px; /* Tamaño de los iconos */
   margin-right: 1px; /* Margen derecho entre iconos (ajustable según tus preferencias) */
-  margin-top: 5px; /* Margen superior para separar los iconos verticalmente */
-  margin-bottom: 5px; /* Margen superior para separar los iconos verticalmente */
   display: inline-block; /* Hace que los elementos se comporten como bloques en línea */
   animation: scale 2s infinite alternate; /* Aplica la animación de acercamiento con duración de 2 segundos, alterna entre acercamiento y alejamiento, y se repite infinitamente */
   background: linear-gradient(45deg, #faefae, #b3aa7a); /* Color del fondo circular */
